@@ -1,0 +1,9 @@
+Chapter 1: Introduction to Machine Learning
+
+Machine learning is a subset of artificial intelligence that focuses on building systems that learn from data.
+Rather than being explicitly programmed, these systems improve their performance over time as they are exposed to more examples.
+
+Supervised learning involves training a model on labeled data, while unsupervised learning finds hidden patterns in unlabeled data.
+Reinforcement learning uses rewards and punishments to teach an agent how to act in an environment.
+
+The main goal of machine learning is to enable systems to make accurate predictions or decisions based on data.
